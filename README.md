@@ -10,11 +10,14 @@ Magnet is mounted on a toy car. Reed switch is mounted inside the road. When car
 ![Arduino Nano based traffic counter](TrafficCounter.jpg)
 
 ## Materials needed
-1. Arduino Nano
-2. reed switch (magnetic switch)
-3. green LED diode
-4. red LED diode
-5. buzzer
-6. 10k Ohm resistor
-7. 220 Ohm resistor
+1. 1 x Arduino Nano
+2. 1 x reed switch (magnetic switch)
+3. 1 x green LED diode
+4. 1 x red LED diode
+5. 1 x buzzer
+6. 1 x 10k Ohm resistor
+7. 1 x 220 Ohm resistor
 8. 2 x 300 Ohm resistor
+
+
+![Arduino Nano based traffic counter - software part](TrafficCounter_sw.png)
