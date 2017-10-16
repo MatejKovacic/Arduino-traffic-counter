@@ -7,6 +7,8 @@ Arduino firmware for reading reed switch state and counting traffic.
 
 Magnet is mounted on a toy car. Reed switch is mounted inside the road. When car with magnet passes the switch, switch is activated. Green LED is turned off, red LED and onboard LED is turned on and beeper starts beeping. Traffic counter is incfreased and printed to serial console.
 
+![Arduino Nano based traffic counter](TrafficCounter.jpg)
+
 ## Materials needed
 1. Arduino Nano
 2. reed switch (magnetic switch)
