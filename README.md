@@ -21,3 +21,5 @@ Magnet is mounted on a toy car. Reed switch is mounted inside the road. When car
 
 
 ![Arduino Nano based traffic counter - software part](TrafficCounter_sw.png)
+
+![Arduino Nano based traffic counter with car](TrafficCounter_car.jpg)
