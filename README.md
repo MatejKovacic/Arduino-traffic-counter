@@ -1,4 +1,4 @@
-# Arduino-traffic-counter
+# Arduino traffic counter
 Arduino traffic counter for CodeWeek workshop for children.
 
 Arduino firmware for reading reed switch state and counting traffic.
