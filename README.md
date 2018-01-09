@@ -31,4 +31,4 @@ Available is also a version, which is displaying traffic counter on LCD screen. 
 2. 1 x 220 Ohm resistor
 3. 1 x 10 kOhm potentiometer
 
-![Arduino Nano based traffic counter with LCD](TrafficCounter_LCD.jpg)
+![Arduino Nano based traffic counter with LCD](Traffic_Counter_LCD.jpg)
